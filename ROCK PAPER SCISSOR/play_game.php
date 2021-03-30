@@ -5,12 +5,7 @@
 ?>
 </head>
  <body>
- <?php
- echo $_GET['p1'];
- echo $_GET['p2'];
- echo $_GET['p3'];
- echo $_GET['p4'];
- ?>
+
      <div style="width:100%;background-color:purple;height:30px;padding-top:20px">
        <center><b>WELCOME <?php echo $_GET['name'] ?></b></center>
     </div>
